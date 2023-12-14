@@ -24,7 +24,6 @@ body {
 }
 .postcard-header h1 {
 	width: 350px;
-	height: 50px;
 }
 .postcard-body {
 	display: flex;
